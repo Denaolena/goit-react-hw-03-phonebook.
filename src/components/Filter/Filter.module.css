@@ -1,0 +1,20 @@
+.lable {
+  display: block;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 10px 0;
+  color: black;
+}
+
+.input {
+  display: block;
+  margin-top: 2px;
+  width: 50%;
+  width: 250px;
+  height: 25px;
+  border-radius: 2px;
+  border: 0.5px solid grey;
+  font-family: Segoe UI;
+  font-size: 16px;
+  color: black;
+}
